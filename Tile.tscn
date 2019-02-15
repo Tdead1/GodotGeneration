@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Textures/T_Dirt_64x64.png" type="Texture" id=1]
+[ext_resource path="res://Tile.gd" type="Script" id=2]
+
+[node name="Tile" type="Sprite"]
+texture = ExtResource( 1 )
+offset = Vector2( 32, 32 )
+script = ExtResource( 2 )
+
