@@ -44,9 +44,6 @@ func _ready():
 		
 	pass;
 
-func _process(delta):
-	pass;
-
 func placeitems():
 	print("Attempted placing some items.");
 	for x in MAPSIZE:
