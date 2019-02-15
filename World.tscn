@@ -20,10 +20,10 @@ margin_right = 40.0
 margin_bottom = 40.0
 
 [node name="Container" parent="." instance=ExtResource( 2 )]
-margin_left = 768.0
-margin_top = 445.0
-margin_right = 1018.0
-margin_bottom = 595.0
+margin_left = 774.4
+margin_top = 397.816
+margin_right = 1024.4
+margin_bottom = 597.816
 
 [node name="Camera2D" type="Camera2D" parent="."]
 position = Vector2( 727.567, 458.191 )
